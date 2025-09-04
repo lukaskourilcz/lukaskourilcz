@@ -17,7 +17,20 @@ Software engineer with a strong passion for design and web development. I starte
 - 🎯 Practicing daily coding challenges (LeetCode & custom quizzes)
 - 📚 Translating & publishing my books (*Rap Diary*, *101 Days in Bangkok*, more to come ...)   
 
-## 💡 Featured Projects
+## 🎤 Beyond Code
+
+- ✈️ Traveled, lived, and worked in Bangkok, Barcelona, Reykjavik, Gibraltar, Mexico, Japan and beyond  
+- 🎤 Organizer of hip hop events, radio shows, and community projects  
+- 📚 Author with OKRAJ Media (*Rapovej denik Lukase Kourila*, ... )  
+
+## 📬 Let’s Connect
+
+- 📧 **Email:** kouril.lukas@gmail.com
+- 💼 **LinkedIn:**[linkedin.com/lukaskouril](https://linkedin.com/in/lukaskouril)
+- 🌍 **Prague**, Czech Republic
+
+
+<--- ## 💡 Featured Projects
 
 ### 🔹 [AI Powered React Quiz App]([https://quiz-app-nxt.vercel.app/])
 An AI powered quiz app that generates random Frontend questions, graded by Gemini AI with instant feedback.
@@ -36,15 +49,4 @@ An interactive app that asks personal input questions, then reveals uncomfortabl
 A professional website built for a Czech transportation company, focusing on clarity, speed, and mobile-first responsiveness.  
 Includes optimized images, multilingual support, and a clean UI that helps customers quickly find the transport services they need.  
 **Tech:** Next.js, TailwindCSS  
-
-## 🎤 Beyond Code
-
-- ✈️ Traveled, lived, and worked in Bangkok, Barcelona, Reykjavik, Gibraltar, Mexico, Japan and beyond  
-- 🎤 Organizer of hip hop events, radio shows, and community projects  
-- 📚 Author with OKRAJ Media (*Rapovej denik Lukase Kourila*, ... )  
-
-## 📬 Let’s Connect
-
-- 📧 **Email:** kouril.lukas@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/lukaskouril)
-- 🌍 **Prague**, Czech Republic
+--->
