@@ -21,5 +21,5 @@ Software engineer with a strong passion for design and web development. I starte
 
 ## Let’s Connect
 - 📧 **Email:** kouril.lukas@gmail.com
-- 💼 **LinkedIn:**[linkedin.com/lukaskouril](https://linkedin.com/in/lukaskouril)
+- 💼 **LinkedIn:** [linkedin.com/lukaskouril](https://linkedin.com/in/lukaskouril)
 - 🌍 **Prague**, Czech Republic
