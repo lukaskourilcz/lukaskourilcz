@@ -1,6 +1,5 @@
 ![Header](./header.png)
 # 💻 Hello, I'm Lukas Kouril
-
 Software engineer with a strong passion for design and web development. I started building my first websites at 13 and ever since, creating digital products has been a constant element in my day-to-day activities. Currently, the main focus is on JavaScript, TypeScript, React and Next.js, but I'm always looking for opportunities to evolve my skills and explore new advancements. Driven by a passion for learning and a growth-oriented mindset, software development has been the core part of my life. Beyond tech, writing is a long-standing passion of mine, with several published articles and, most recently, my first book. As a big fan of tacos and music, I love blending creativity, spices, and technology in everything I do. 
 
 ## 🛠️ Tech Stack
@@ -54,4 +53,6 @@ Includes optimized images, multilingual support, and a clean UI that helps custo
 
 ## 📬 Let’s Connect
 
-- 📧 **Email:** kouril.lukas@gmail.com  💼  [LinkedIn](https://linkedin.com/in/lukaskouril)  🌍  **Prague**, Czech Republic
+- 📧 **Email:** kouril.lukas@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/lukaskouril)
+- 🌍 **Prague**, Czech Republic
