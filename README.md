@@ -35,7 +35,7 @@ An AI powered quiz app that generates random Frontend questions, graded by Gemin
 The Vue version of my quiz app – built with Vue 3, Composition API, and Bootstrap.  
 **Tech:** Vue 3, Bootstrap, OpenAI/Gemini API  
 
-### 🔹 [Don’t Wanna Know website] - work in progress  
+### 🔹 Don’t Wanna Know website - work in progress  
 An interactive app that asks personal input questions, then reveals uncomfortable life stats  
 (like how many more times you’ll see your mom or grandma 👀). 
 **Tech:** React, TailwindCSS  
