@@ -1,4 +1,5 @@
 ![Header](./header.png)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lukaskourilcz&theme=radical)](https://git.io/streak-stats)
 
 # 👋 Hello, I'm Lukas Kouril
 
