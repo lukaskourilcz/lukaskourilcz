@@ -54,4 +54,4 @@ Includes optimized images, multilingual support, and a clean UI that helps custo
 
 ## 📬 Let’s Connect
 
-- 📧 **Email:** kouril.lukas@gmail.com  - 💼 [LinkedIn](https://linkedin.com/in/lukaskouril)  - 🌍 **Prague**, Czech Republic
+- 📧 **Email:** kouril.lukas@gmail.com  💼  [LinkedIn](https://linkedin.com/in/lukaskouril)  🌍  **Prague**, Czech Republic
