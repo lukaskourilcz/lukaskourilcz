@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-# 👋 Hi, I'm Lukas Kouril
+# 👋 Hello, I'm Lukas Kouril
 
 💻 **Frontend Engineer** | 📍 Based in Prague  
 
@@ -12,7 +12,7 @@ Software engineer with a strong passion for design and web development. I starte
 - **Frontend:** React, Next.js, Vue, TailwindCSS, Bootstrap  
 - **Backend & DB:** Node.js, Express, Prisma, PostgreSQL  
 - **Tools & DevOps:** Git, GitHub, Docker, Vercel, Yarn, NPM  
-- **Extras:** ShadCN, MaterialUI, i18n, REST APIs, Figma
+- **Extras:** ShadCN, MaterialUI, i18n, REST APIs, Figma, Photoshop
 
 ---
 
