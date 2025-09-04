@@ -1,4 +1,4 @@
-![Header](./header1.png)
+![Header](./header.png)
 
 # 👋 Hi, I'm Lukas Kouril
 
