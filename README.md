@@ -20,8 +20,8 @@ Software engineer with a strong passion for design and web development. I starte
 
 - 🚧 Building **AI-powered quiz apps** (React & Vue) with live scoring using OpenAI/Gemini  
 - 🎨 Developing my personal portfolio with Next.js + TailwindCSS  
-- 📚 Translating & publishing my books (*Rap Diary*, *101 Days in Bangkok*, more to come ...)  
-- 🎯 Practicing daily coding challenges (LeetCode & custom quizzes)  
+- 🎯 Practicing daily coding challenges (LeetCode & custom quizzes)
+- 📚 Translating & publishing my books (*Rap Diary*, *101 Days in Bangkok*, more to come ...)   
 
 ---
 
@@ -49,7 +49,7 @@ Includes optimized images, multilingual support, and a clean UI that helps custo
 
 ## 📈 GitHub Contributions
 
-![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaskourilcz&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskourilcz&layout=compact&theme=radical)
+![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaskourilcz&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskourilcz&layout=compact&theme=radical)
 
 ---
 
