@@ -9,11 +9,6 @@ Software engineer with a strong passion for design and web development. I starte
 - **Tools & DevOps:** Git, GitHub, Docker, Vercel, Yarn, NPM  
 - **Extras:** ShadCN, MaterialUI, i18n, REST APIs, Figma, Photoshop
 
-## What I’m working on
-- 🚧 Building **AI-powered quiz apps** (React & Vue) with live scoring using OpenAI/Gemini  
-- 🎨 Developing my personal portfolio with Next.js + TailwindCSS  
-- 🎯 Practicing daily coding challenges (LeetCode & custom quizzes)
-
 ## Beyond Code
 - ✈️ Traveled, lived, and worked in Bangkok, Barcelona, Reykjavik, Gibraltar, Mexico, Japan and beyond  
 - 🎤 Organizer of hip hop events, radio shows, and community projects  
