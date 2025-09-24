@@ -13,6 +13,6 @@ Also, don't forget to check out my portfolio: [lukaskouril.vercel.app](https://l
 
 ## Beyond Code
 - ✈️ Traveled, lived, and worked in Bangkok, Barcelona, Reykjavik, Gibraltar, Mexico, Japan and beyond  
-- 🎤 Organizer of hip hop events, radio shows, and community projects  
-- 📚 Author with OKRAJ Media (*Rapovej denik Lukase Kourila*, ... ) 
+- 🎤 Organized hip hop events, radio shows, and community projects  
+- 📚 And then wrote a book about it called *Rapovej denik Lukase Kourila* 
 
