@@ -14,6 +14,5 @@ Software engineer with a strong passion for design and web development. I starte
 - 🎤 Organizer of hip hop events, radio shows, and community projects  
 - 📚 Author with OKRAJ Media (*Rapovej denik Lukase Kourila*, ... )  
 
-## Let’s Connect
-📧 [kouril.lukas@gmail.com](mailto:kouril.lukas@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/lukaskouril) · 🌍 Prague, Czech Republic · 🌐 [Portfolio](https://lukaskouril.vercel.app/)
+## Let’s Connect > 📧 [kouril.lukas@gmail.com](mailto:kouril.lukas@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/lukaskouril) · 🌍 Prague, Czech Republic · 🌐 [Portfolio](https://lukaskouril.vercel.app/)
 
