@@ -15,6 +15,5 @@ Software engineer with a strong passion for design and web development. I starte
 - 📚 Author with OKRAJ Media (*Rapovej denik Lukase Kourila*, ... )  
 
 ## Let’s Connect
-- 📧 **Email:** kouril.lukas@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/lukaskouril](https://linkedin.com/in/lukaskouril)
-- 🌍 **Prague**, Czech Republic
+📧 [kouril.lukas@gmail.com](mailto:kouril.lukas@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/lukaskouril) · 🌍 Prague, Czech Republic · 🌐 [Portfolio](https://lukaskouril.vercel.app/)
+
