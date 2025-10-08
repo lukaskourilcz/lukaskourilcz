@@ -5,9 +5,9 @@ A software engineer with a strong passion for design and web development. I star
 Also, don't forget to check out my portfolio: [lukaskouril.vercel.app](https://lukaskouril.vercel.app/) 👨🏻‍💻
 
 ## Tech Stack 🛠️ 
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3  
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3, SQL  
 - **Frontend:** React, Next.js, Vue, TailwindCSS, Bootstrap  
-- **Backend & DB:** Node.js, Express, Prisma, PostgreSQL  
+- **Backend & DB:** Node.js, Express, Prisma, MySQL, PostgreSQL  
 - **Tools & DevOps:** Git, GitHub, Docker, Vercel, Yarn, NPM  
 - **Extras:** ShadCN, MaterialUI, i18n, REST APIs, Figma, Photoshop
 
