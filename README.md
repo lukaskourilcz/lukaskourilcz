@@ -13,5 +13,4 @@ Also, don't forget to check out my portfolio: [lukaskouril.vercel.app](https://l
 ## Beyond Code
 - ✈️  Traveled, lived, and worked in Bangkok, Barcelona, Reykjavik, Gibraltar, Mexico, Japan and UK  
 - 🎤  Organized hip hop events, radio shows, and community projects  
-- 📚  And then wrote a book about it called *Rapovej denik Lukase Kourila* 
-
+- 📚  Wrote a book about it all called *Rapovej denik Lukase Kourila* 
