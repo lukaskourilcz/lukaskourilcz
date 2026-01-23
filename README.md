@@ -11,7 +11,7 @@ Also, don't forget to check out my portfolio: [lukaskouril.vercel.app](https://l
 - **Extras:** ShadCN, MaterialUI, i18n, REST APIs, Figma, Photoshop
 
 ## Beyond Code
-- ✈️  Traveled, lived, and worked in Bangkok, Barcelona, Reykjavik, Gibraltar, Mexico, Japan and beyond  
+- ✈️  Traveled, lived, and worked in Bangkok, Barcelona, Reykjavik, Gibraltar, Mexico, Japan and UK  
 - 🎤  Organized hip hop events, radio shows, and community projects  
 - 📚  And then wrote a book about it called *Rapovej denik Lukase Kourila* 
 
