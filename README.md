@@ -26,4 +26,4 @@ Most of my client work lives in private repos and on GitLab, so the contribution
 
 ## Get in Touch
 
-**Available for work** — [lukaskouril.vercel.app](https://lukaskouril.vercel.app) · [LinkedIn](https://linkedin.com/in/lukas-kouril/) · kouril.lukas@gmail.com
+**Available for work** — [lukaskouril.dev](https://lukaskouril.dev) · [LinkedIn](https://linkedin.com/in/lukas-kouril/) · kouril.lukas@gmail.com
