@@ -1,6 +1,6 @@
-# Hi, I'm Lukas 👋
+# Hi, I'm Lukas 👨🏻‍💻
 
-I'm a Senior Frontend Engineer based in Prague. I specialize in TypeScript and React, from micro-frontends for online banking to AI tooling in production teams. I care about readable code and frontends that still make sense a year later.
+I'm a Senior Fullstack Engineer currently based in Prague. I specialize in TypeScript and React, from micro-frontends for online banking to AI tooling in production teams. I care about readable code and frontends that still make sense a year later.
 
 Currently, I lead AI adoption on my team as its dedicated AI-focused engineer, driving the development of a Next.js platform and setting the direction for how we integrate AI into our workflow. Previously, I helped modernize a large-scale internet banking platform, work that demanded strict security standards and zero-downtime delivery. Before that, I built an open-source ML metadata application for a scientific non-profit in Barcelona.
 
