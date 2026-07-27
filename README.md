@@ -46,6 +46,8 @@ the other end of it, and that is still the first thing I ask about a design.
 | **Apr 2026 – Present** | Senior Frontend Engineer | **Web Integrator** · Prague | Joined as the first engineer with an explicit AI-tooling brief and wrote the conventions the team works to. Lead frontend delivery, author the technical specs clients build against, and hold the accessibility line in both. |
 | **Jul 2025 – Mar 2026** | Senior Fullstack Developer | **EmbedIT** · Prague | Led the frontend and BFF side of an online-banking modernization, moving legacy functionality toward micro-frontends. BFF controllers and service orchestration, API contracts, unit/integration/E2E tests, CI/CD and code-review standards. |
 | **Jan 2024 – Jun 2025** | Fullstack Developer | **Ersilia** · Barcelona | Full-stack tooling for structured ML model metadata in an open-science team, plus an AI-assisted workflow that extracts fields from scientific PDFs with explicit validation. Metadata validation and repo sync automated via the GitHub API. |
+| **Feb 2023 – Dec 2023** | Frontend Developer | **beKind** · Barcelona | Frontend of a B2B marketplace connecting charities and corporations, structured around reusable React and Tailwind components. Carried a company rebrand into the production product and contributed to the Node.js, PostgreSQL, and API work. Performance and SEO handled during the build, not in a pass afterwards. |
+| **Apr 2022 – Jan 2023** | Full Stack Developer | **Take a Break** · Barcelona | B2B meditation-booking product across product UI, data layer, payments, authentication, and deployment. Booking, dashboard, and content interfaces in Next.js and TypeScript, PostgreSQL and Prisma underneath, Stripe and third-party APIs integrated. |
 
 ---
 
