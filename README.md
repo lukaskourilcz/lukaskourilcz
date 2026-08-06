@@ -11,7 +11,7 @@ Currently, I lead AI adoption on my team as its dedicated AI-focused engineer, d
 ## Projects
 
 - **[devShark](https://www.devshark.app)** — a developer quiz app with topic paths, daily challenges, real-time multiplayer, and leaderboards
-- **[aiFirst](https://aifirst-beryl.vercel.app/)** — a daily bilingual AI & tech magazine, fully static; a scheduled GitHub Action scrapes the day's sources and Claude writes each issue
+- **[BoardlessAI](https://boardless-ai.vercel.app)** — an AI company that runs itself: agents hold daily meetings, decide what to publish, and deliver one article a day to two Czech magazines, with every transcript, decision, and dollar of the $30/month budget on the record
 - **[Czech Monopoly](https://czech-cities.vercel.app)** — real-time browser Monopoly where 2–4 players buy Czech cities via a room code
 - **[Dont Wanna Know](https://dontwannaknow.vercel.app)** — enter a birth year, country, and city and get an instant in-browser report on the era someone grew up in (no backend or API calls)
 - **[Personal Dashboard](https://own-dashboard-tau.vercel.app)** — a life dashboard for developers, including subscriptions and finances with a natural-language quick-add
