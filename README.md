@@ -6,7 +6,7 @@ Currently, I lead AI adoption on my team as its dedicated AI-focused engineer, d
 
 ## Tech Stack
 
-`TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `Tailwind CSS` · `Payload` · `Docker` · `Claude Code`
+`TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL`
 
 ## Projects
 
