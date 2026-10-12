@@ -15,7 +15,6 @@ Currently, I lead AI adoption on my team as its dedicated AI-focused engineer, d
 - **[PersonalDashboard](https://github.com/lukaskourilcz/own-dashboard)** — a life dashboard for developers, including subscriptions and finances with a natural-language quick-add
 - **[DontWannaKnow](https://github.com/lukaskourilcz/dontwannaknow)** — enter a birth year, country, and city and get an instant in-browser report on the era someone grew up in (no backend or API calls)
 - **[BoardlessAI](https://github.com/lukaskourilcz/quorum)** — an agent-operated company that runs daily editorial and marketing workflows, with decisions, rules, and operating records tracked in Git
-- **Czech Monopoly** — real-time browser Monopoly where 2–4 players buy Czech cities via a room code
 
 ## Beyond Code
 
