@@ -20,7 +20,7 @@ Currently, I am most focused on AI adoption for my freelance projects while natu
 
 - ✈️ Lived and worked in Bangkok, Barcelona, Reykjavik, Gibraltar, Mexico, Japan, and the UK
 - 🎤 Organized hip hop events, radio shows, and community projects
-- 📚 Then wrote a book about it: [*Rapovej deník Lukáše Kouřila*](https://okraj.shop/products/rapovej-denik-lukase-kourila?variant=57546015342975)
+- 📚 Then wrote a book about it: [Rapovej deník Lukáše Kouřila](https://okraj.shop/products/rapovej-denik-lukase-kourila?variant=57546015342975)
 
 ## Get in Touch
 
