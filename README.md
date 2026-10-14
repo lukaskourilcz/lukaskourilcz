@@ -2,11 +2,11 @@
 
 I'm a Senior Fullstack Engineer currently based in Prague. I specialize in TypeScript and React, from micro-frontends for online banking to AI tooling in production teams.
 
-Currently, I lead AI adoption on my team as its dedicated AI-focused engineer, driving the development of a Next.js platform and setting the direction for how we integrate AI into our workflow. Previously, I helped modernize a large-scale internet banking platform, work that demanded strict security standards and zero-downtime delivery. Before that, I built an open-source ML metadata application for a scientific non-profit in Barcelona.
+Currently I am most focused on AI adoption for several freelance projects while naturally shifting from a React dev to an AI-focused engineer, setting the direction for how companies integrate AI workflows. Previously, I helped modernize a large-scale internet banking platform, work that demanded strict security standards and zero-downtime delivery and before that, I built an open-source ML metadata application for a scientific non-profit in Barcelona. I also built a lot of cool and funny stuff just for myself, feel free to give it a look (and a star, ofc).
 
-## Tech Stack
+## Current favorite stack
 
-`TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL`
+`TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `LangChain` · `Jev` · `n8n`
 
 ## Projects
 
@@ -18,9 +18,9 @@ Currently, I lead AI adoption on my team as its dedicated AI-focused engineer, d
 
 ## Beyond Code
 
-- ✈️ Traveled, lived, and worked in Bangkok, Barcelona, Reykjavik, Gibraltar, Mexico, Japan, and the UK
+- ✈️ Lived and worked in Bangkok, Barcelona, Reykjavik, Gibraltar, Mexico, Japan, and the UK
 - 🎤 Organized hip hop events, radio shows, and community projects
-- 📚 Wrote a book about it all: *Rapovej deník Lukáše Kouřila*
+- 📚 Then wrote a book about it: [*Rapovej deník Lukáše Kouřila*](https://okraj.shop/products/rapovej-denik-lukase-kourila?variant=57546015342975)
 
 ## Get in Touch
 
