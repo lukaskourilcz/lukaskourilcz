@@ -24,4 +24,4 @@ Currently, I am most focused on AI adoption for my freelance projects while natu
 
 ## Get in Touch
 
-**Available for work** — [lukaskouril.dev](https://lukaskouril.dev) · [LinkedIn](https://linkedin.com/in/lukas-kouril/) · kouril.lukas@gmail.com
+**Available for work** — **[lukaskouril.dev](https://lukaskouril.dev)** · [LinkedIn](https://linkedin.com/in/lukas-kouril/) · kouril.lukas@gmail.com
