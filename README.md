@@ -1,10 +1,10 @@
 # Hi, I'm Lukas 👨🏻‍💻
 
-I'm a Senior Fullstack Engineer currently based in Prague. I specialize in TypeScript and React, from micro-frontends for online banking to AI tooling in production teams.
+I'm a Senior Fullstack Engineer currently based in Prague.
 
-Currently I am most focused on AI adoption for several freelance projects while naturally shifting from a React dev to an AI-focused engineer, setting the direction for how companies integrate AI workflows. Previously, I helped modernize a large-scale internet banking platform, work that demanded strict security standards and zero-downtime delivery and before that, I built an open-source ML metadata application for a scientific non-profit in Barcelona. I also built a lot of cool and funny stuff just for myself, feel free to give it a look (and a star, ofc).
+Currently I am most focused on AI adoption for my freelance projects while naturally shifting from a React dev to an AI-focused engineer, setting the direction for how companies integrate AI workflows. Previously, I helped modernize a large-scale internet banking platform, work that demanded strict security standards and zero-downtime delivery and before that, I built an open-source ML metadata application for a scientific non-profit in Barcelona. I also built a lot of cool and funny stuff just for myself, feel free to give it a look (and a star, ofc).
 
-## Current favorite stack
+## Favorite stack
 
 `TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `LangChain` · `Jev` · `n8n`
 
