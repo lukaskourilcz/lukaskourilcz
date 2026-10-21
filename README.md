@@ -18,7 +18,7 @@ Currently, I am most focused on AI adoption for my freelance projects while natu
 
 ## Beyond Code
 
-- ✈️ Lived and worked in Bangkok, Barcelona, Reykjavik, Gibraltar, Mexico, Japan, and the UK
+- ✈️ Nomaded through coding communities in Bangkok, Barcelona, Reykjavik, Gibraltar, Mexico, Japan, Prague and Oslo.
 - 🎤 Organized hip hop events, radio shows, and community projects
 - 📚 Wrote a book about it: [Rapovej deník Lukáše Kouřila](https://okraj.shop/products/rapovej-denik-lukase-kourila?variant=57546015342975)
 
